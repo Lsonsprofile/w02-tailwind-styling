@@ -12,6 +12,7 @@ export default function Home() {
             src="/lson.jpeg"
             alt="Profile Picture"
             fill
+            sizes="(max-width: 384px) 100vw, 384px"
             className="object-cover"
             priority
           />
